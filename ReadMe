@@ -1,4 +1,6 @@
 The goal of this project is to understand multi-threading and handling concurrent execution of requests by 
 implementing proper locking mechanism.
 
+Go through the design document for design and execution
+
 Language: C++
