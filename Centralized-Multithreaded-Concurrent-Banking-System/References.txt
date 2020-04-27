@@ -1,0 +1,6 @@
+References:
+
+TCP/IP Sockets in C: Practical Guide for Programmers by Michael Donahoo // used for design considerations
+https://stackoverflow.com/     // used for solving the errors. 
+https://github.com/            // used for understanding the socket programming flow and multi-threading
+https://en.wikipedia.org/       // used for learning about client server architecture
